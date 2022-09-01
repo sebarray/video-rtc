@@ -1,6 +1,7 @@
 
 import firebase from 'firebase/app';
-import 'firebase/firestore'
+import 'firebase/firestore';
+
 const firebaseConfig = {
   apiKey: "AIzaSyDEVNzetPPloujO3y6Ut822qoKfaljVjtM",
   authDomain: "webrtc-65b18.firebaseapp.com",
